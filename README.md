@@ -1,2 +1,2 @@
 # iCoder
-This is our iCoder.
+This is our iCoder Website.
