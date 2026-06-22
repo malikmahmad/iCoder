@@ -1,4 +1,1 @@
-# iCoder
-This is our iCoder.
-
-Pair Extraordinaire test commit
+This is our iCoder Website.
